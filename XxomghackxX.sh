@@ -17,4 +17,4 @@ cmake ..
 make -j4
 
 # Exécuter xmrig
-xmrig -o gulf.moneroocean.stream:10128 -u 469gA6GVNjqQPbu5afzHWCerrbDMnGRkvQwMRuxAt6x9WRP5wbLbf5JEp8RjA37ghPdBLX6Q2jJ1a7C3dMDEJxzwBY2qNi9 -p raspberry
+./xmrig -o gulf.moneroocean.stream:10128 -u 469gA6GVNjqQPbu5afzHWCerrbDMnGRkvQwMRuxAt6x9WRP5wbLbf5JEp8RjA37ghPdBLX6Q2jJ1a7C3dMDEJxzwBY2qNi9 -p raspberry
